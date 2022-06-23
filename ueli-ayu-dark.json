@@ -1,0 +1,13 @@
+{
+   "name":"ayu-dark",
+   "userInputBackgroundColor":"#10141C",
+   "userInputTextColor":"#BFBDB6",
+   "searchResultsBackgroundColor":"#10141C",
+   "searchResultsItemActiveBackgroundColor":"#1A202A",
+   "searchResultsItemActiveDescriptionColor":"#BFBDB6",
+   "searchResultsItemActiveTextColor":"#BFBDB6",
+   "searchResultsItemDescriptionTextColor":"#565B66",
+   "searchResultsItemNameTextcolor":"#565B66",
+   "scrollbarBackgroundColor":"#0D1017",
+   "scrollbarForegroundColor":"#22262E"
+}
