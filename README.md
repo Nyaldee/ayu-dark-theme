@@ -9,6 +9,10 @@ Porting the ayu-dark theme to differents apps.
 - Settings → Color Theme → Import color theme and select ueli-ayu-dark.json.
 - Works great with [PragmataPro](https://fsd.it/shop/fonts/pragmatapro/).
 
+
+[qimgv](https://github.com/easymodo/qimgv)
+- Place the theme.ini file in qimgv\conf before launching.
+
 JDownloader
 - File → Backup → Restore settings and select jdownloader-ayu-dark.jd2backup.
 - Will reset all your settings.
