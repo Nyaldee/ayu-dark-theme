@@ -22,6 +22,7 @@ foobar2000
 - Background → 16,20,28
 - Highlight → 30,35,46
 - Selection → 30,35,46
+- Fonts → [PragmataPro](https://fsd.it/shop/fonts/pragmatapro/).
 
 Windows Terminal
 - Open Settings → Open JSON File.
