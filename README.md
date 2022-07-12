@@ -17,6 +17,12 @@ JDownloader
 - File → Backup → Restore settings and select jdownloader-ayu-dark.jd2backup.
 - Will reset all your settings.
 
+foobar2000
+- Text → 191,189,182
+- Background → 16,20,28
+- Highlight → 30,35,46
+- Selection → 30,35,46
+
 Windows Terminal
 - Open Settings → Open JSON File.
 - At the line ```"defaults": {},``` replace with ```"defaults": {"colorScheme" : "ayu-dark"},```
